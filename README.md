@@ -5,3 +5,4 @@ The list below is the names of students and participants in my professional cour
 | First Name      | Last Name | College | Courses | Social Media | Comments |
 | :----: | :----: | :----: | :----: | :----: | :----: |
 | Example     | Example     | - | PHP, HTML, CSS | [Telegram](https://t.me) | My dude |
+| Milad     | Takjoo     | MFT | HTML,CSS,JS,GIT | - | Reasy to Develop |
