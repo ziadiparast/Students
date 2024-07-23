@@ -5,4 +5,5 @@ The list below is the names of students and participants in my professional cour
 | First Name      | Last Name | College | Courses | Social Media | Comments |
 | :----: | :----: | :----: | :----: | :----: | :----: |
 | Example     | Example     | - | PHP, HTML, CSS | [Telegram](https://t.me) | My dude |
-| seyedeh fatemeh   | mirshafaghi nodehi | mft gilan |  HTML, CSS,javascript,git | |  |
+| Milad     | Takjoo     | MFT | HTML, CSS, JAVASCRIPT, GIT | - | ready to develop |
+| seyedeh fatemeh   | mirshafaghi nodehi   | mft gilan |  HTML, CSS,javascript,git | | |
